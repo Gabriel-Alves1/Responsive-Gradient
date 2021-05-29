@@ -3,7 +3,7 @@ Responsive Gradient
 </h1>
 <br>
 
-## 🚀 Tecnologies
+## 🚀 Technologies
 
 This project was made by these technologies
 
