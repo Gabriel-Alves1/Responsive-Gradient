@@ -1,5 +1,5 @@
 <h1 align="center">
-Responsive Gradient Site 
+Responsive Gradient  
 </h1>
 <br>
 
