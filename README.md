@@ -5,7 +5,7 @@ Responsive Gradient
 
 ## 🚀 Technologies
 
-This project was made by these technologies
+This project was made by these technologies:
 
 - HTML
 - CSS
@@ -13,7 +13,7 @@ This project was made by these technologies
 
 ## 💻 Project
 
-Responsive site with gradient colors and animations
+Responsive website with gradient colors and animations
 
 ---
 
